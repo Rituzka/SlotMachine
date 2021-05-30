@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">SlotMachine</string>
-    <string name="win">Win</string>
-    <string name="win2">Win:</string>
+    <string name="win2">Win amount: </string>
     <string name="play">PLAY</string>
 </resources>
